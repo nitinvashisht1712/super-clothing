@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/super-clothing/static/js/main.390a2c99.js",
+    "static/js/472.2363537a.chunk.js": "/super-clothing/static/js/472.2363537a.chunk.js",
+    "static/js/248.282f4197.chunk.js": "/super-clothing/static/js/248.282f4197.chunk.js",
+    "static/js/244.e2b0990c.chunk.js": "/super-clothing/static/js/244.e2b0990c.chunk.js",
+    "static/js/760.98ef951f.chunk.js": "/super-clothing/static/js/760.98ef951f.chunk.js",
+    "static/js/12.355cd9cb.chunk.js": "/super-clothing/static/js/12.355cd9cb.chunk.js",
+    "service-worker.js": "/super-clothing/service-worker.js",
+    "static/media/shopping-bag.svg": "/super-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/super-clothing/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/super-clothing/index.html",
+    "main.390a2c99.js.map": "/super-clothing/static/js/main.390a2c99.js.map",
+    "472.2363537a.chunk.js.map": "/super-clothing/static/js/472.2363537a.chunk.js.map",
+    "248.282f4197.chunk.js.map": "/super-clothing/static/js/248.282f4197.chunk.js.map",
+    "244.e2b0990c.chunk.js.map": "/super-clothing/static/js/244.e2b0990c.chunk.js.map",
+    "760.98ef951f.chunk.js.map": "/super-clothing/static/js/760.98ef951f.chunk.js.map",
+    "12.355cd9cb.chunk.js.map": "/super-clothing/static/js/12.355cd9cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.390a2c99.js"
+  ]
+}
